@@ -1,13 +1,12 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+Este projeto de front-end foi desenvolvido em React com HTML, CSS e javascript. 
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Nessa aplicação de loja online, os usuários podem buscar produtos através de uma requisição de API do Mercado Livre e adicioná-los ao seu carrinho de compras. O carrinho de compras permite que os usuários visualizem os itens selecionados, ajustem as quantidades e removam itens indesejados.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Após a seleção dos produtos, os usuários podem preencher um formulário de checkout com suas informações de envio e pagamento, garantindo que a transação seja concluída com sucesso.
+
+Instruções de instalação:
+
+Clone o repositório em seu computador
+Instale as dependências necessárias usando o comando npm install
+Inicie o projeto usando o comando npm start
+Acesse http://localhost:3000 no seu navegador para visualizar a loja online.
